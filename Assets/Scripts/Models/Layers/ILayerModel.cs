@@ -1,9 +1,9 @@
-using Base.UI;
+using Game;
 
 namespace Models.Layers
 {
     public interface ILayerModel
     {
-        void Add(RenderLayer layer);
+        void Add(Layer layer);
     }
 }

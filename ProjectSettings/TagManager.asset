@@ -15,14 +15,14 @@ TagManager:
   - 
   - 
   - HUD
-  - Windows
+  - 
   - Game
-  - Loading
-  - Obstacles
-  - Vortex
+  - 
+  - 
+  - 
   - Lobby
-  - 
-  - 
+  - Windows
+  - Loading
   - 
   - 
   - 
@@ -42,7 +42,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: HUD
+  - name: 
     uniqueID: 1705372235
     locked: 0
   - name: Windows
@@ -59,4 +59,31 @@ TagManager:
     locked: 0
   - name: Walls
     uniqueID: 1793396709
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 217891201
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 3472579225
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 3209107429
+    locked: 0
+  - name: New Layer 10
+    uniqueID: 393644693
+    locked: 0
+  - name: New Layer 11
+    uniqueID: 867865997
+    locked: 0
+  - name: New Layer 12
+    uniqueID: 2855160603
+    locked: 0
+  - name: GAME
+    uniqueID: 1590537319
+    locked: 0
+  - name: HUD
+    uniqueID: 810055327
+    locked: 0
+  - name: WINDOWS
+    uniqueID: 1045578689
     locked: 0

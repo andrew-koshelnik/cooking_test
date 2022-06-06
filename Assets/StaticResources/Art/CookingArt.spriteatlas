@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CookingArt
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b201b61c208efdc46b6a0e4efb1ad35c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 328fc7301cf58ca41b08f49b787a5d2c, type: 3}
+  - {fileID: 21300000, guid: 5d182e60effbb2c42b420c57d42480b9, type: 3}
+  - {fileID: 21300000, guid: 499672814d13d244faed73c7c7079d61, type: 3}
+  - {fileID: 21300000, guid: 95338ec133276f04d88e68fda7e02160, type: 3}
+  - {fileID: 21300000, guid: 82c27f22b3d913942aad57ca2f6a8ee4, type: 3}
+  - {fileID: 21300000, guid: bde47572648bf9642a55cfa2f5c472d2, type: 3}
+  - {fileID: 21300000, guid: f1c743c22b3db464da8cb126fa7cee50, type: 3}
+  - {fileID: 21300000, guid: 95590ff2c733fea448be66950f258380, type: 3}
+  - {fileID: 21300000, guid: 9a337403333e151479eb9de91496109d, type: 3}
+  - {fileID: 21300000, guid: eafe6283e910bdb42bf37d34fc86be9c, type: 3}
+  - {fileID: 21300000, guid: 86528193385ccd84485bc5421e4c3e3e, type: 3}
+  - {fileID: 21300000, guid: ac8b8aa44f47bf14d8ff5b751b9515a3, type: 3}
+  - {fileID: 21300000, guid: 3224a3159e2825f478e597aec306f933, type: 3}
+  - {fileID: 21300000, guid: 94323f457ab4ad343800860e8d618d95, type: 3}
+  - {fileID: 21300000, guid: 95b9b15611443a74d8ee77e906bdc7ce, type: 3}
+  - {fileID: 21300000, guid: 2b3e4057d6549624487c9ed401813ece, type: 3}
+  - {fileID: 21300000, guid: 7c45e057d8b673c47a18c8568c24c314, type: 3}
+  - {fileID: 21300000, guid: e5d38858b97018949b355d3bf59a80c8, type: 3}
+  - {fileID: 21300000, guid: 76d6f0686e3b7d7478364ead6710744e, type: 3}
+  - {fileID: 21300000, guid: fe7570886970c8a44890972a859c3fe2, type: 3}
+  - {fileID: 21300000, guid: cdee0e98bcb2ef94e8d9ede4f60485ed, type: 3}
+  - {fileID: 21300000, guid: effd21d86fca69c4185d402d90394305, type: 3}
+  - {fileID: 21300000, guid: 7a5ff8e86aa68674ab51ba20008713dc, type: 3}
+  - {fileID: 21300000, guid: 49115b9906c761145b890fe7106fd9dd, type: 3}
+  - {fileID: 21300000, guid: 7a2643c93ff3d0d4bbf9a261f8ff8a99, type: 3}
+  - {fileID: 21300000, guid: a5b8b15a29b8a5349ba7b8da2bf6a78d, type: 3}
+  - {fileID: 21300000, guid: f92eca8a56e2bb846b9cbf51c95dc5a4, type: 3}
+  - {fileID: 21300000, guid: ea747dda3a6b3b24580fd2febabbcde3, type: 3}
+  - {fileID: 21300000, guid: cd531dbb25f14bf4fa7ccfeee6603ee3, type: 3}
+  - {fileID: 21300000, guid: f8b38f3c829c1c6489191c38c0884053, type: 3}
+  - {fileID: 21300000, guid: 5e2f025da34fdda40bcb68d2863207b8, type: 3}
+  - {fileID: 21300000, guid: 878771ed530510640b86a6ca1f3cee5f, type: 3}
+  - {fileID: 21300000, guid: 2ec8552e8f92ad34cb283cbfadcc52bd, type: 3}
+  - {fileID: 21300000, guid: 7b2b815eafca2e24c90ab711a729e8e9, type: 3}
+  - {fileID: 21300000, guid: 946c75ee62467214aa75ade7416c123c, type: 3}
+  - {fileID: 21300000, guid: c9023afecbb447a4484b38c28c6d7529, type: 3}
+  - {fileID: 21300000, guid: 4f94843f0c901e9499858ecfdeb00109, type: 3}
+  - {fileID: 21300000, guid: c045654f052a48d4493130efe120483e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Layer 1893
+  - juice fill stage 2
+  - loading_bar copy11
+  - oven
+  - burger patty ingredient
+  - fem 2
+  - Layer 1871
+  - juice fill stage 3
+  - male 1
+  - 'glass '
+  - burger plates 1
+  - tomatoes ingredient
+  - Clock
+  - preview2
+  - burger buns ingredient
+  - juice maker copy's Drop Shadow 1
+  - oil animation frying
+  - loading_bar_load copy
+  - pan 100%
+  - coins_bg
+  - fem 1
+  - burger on pan 100
+  - preview2b copy
+  - juice fill stage 1
+  - burger on pan 90
+  - Cooking-Test
+  - Table
+  - juice fill stage 4
+  - male 1 copy
+  - salad ingredient
+  - burger copy 80%
+  - check
+  - pop comanda
+  - salad
+  - bg
+  - burger on pan 80
+  - trash
+  - juice fill stage 5
+  m_RenderDataMap: {}
+  m_Tag: CookingArt
+  m_IsVariant: 0

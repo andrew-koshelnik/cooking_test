@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lobby
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ebe3aa46d000b3548a4516eb4879306f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 851515000129c374983048cbadd4aa87, type: 3}
+  - {fileID: 21300000, guid: 32136c70a953a114098284f95773a075, type: 3}
+  - {fileID: 21300000, guid: 325efef0b363f45439e1d2581d346633, type: 3}
+  - {fileID: 21300000, guid: d3f61a5143a814c4893e9249620d86d1, type: 3}
+  - {fileID: 21300000, guid: 8c910e32843a1574d9cf359a1fb6e709, type: 3}
+  - {fileID: 21300000, guid: 92e8754323fc4564199f05b84012793c, type: 3}
+  - {fileID: 21300000, guid: f7229d438b6e5db44ae756e78eddeae7, type: 3}
+  - {fileID: 21300000, guid: 869259540501660408dfd53eb900be83, type: 3}
+  - {fileID: 21300000, guid: ae7543a77511e8649b2298b0b14e954d, type: 3}
+  - {fileID: 21300000, guid: 4f17e6a9c81c6fe4380d9402892fe2d4, type: 3}
+  - {fileID: 21300000, guid: d44a7f4cdd48d6340a5f38e7759808fb, type: 3}
+  - {fileID: 21300000, guid: 4e96a18d58e6b634d838d546b6e1ee13, type: 3}
+  - {fileID: 21300000, guid: 62511ced605451f4fb01249b3d9f97b9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - reception old
+  - box on old carpet
+  - old statue
+  - disposable paper 3
+  - old sofa
+  - room
+  - disposable paper 1
+  - carpet old
+  - box 1
+  - old floor
+  - pile of boxes
+  - box on table
+  - entrance old windows
+  m_RenderDataMap: {}
+  m_Tag: Lobby
+  m_IsVariant: 0

@@ -1,16 +1,16 @@
 using System.Collections.Generic;
-using Base.UI;
+using Game;
 
 namespace Models.Layers
 {
     public class LayerModel : ILayerModel
     {
-        private List<RenderLayer> _layers = new List<RenderLayer>();
+        public List<Layer> Layers = new List<Layer>();
 
-        public void Add(RenderLayer layer)
+        public void Add(Layer layer)
         {
-            if(_layers.Find(l=>l.ID == layer.ID) == null)
-                _layers.Add(layer);
+            if(Layers.Find(l=>l.Type == layer.Type) == null)
+                Layers.Add(layer);
         }
     }
 }

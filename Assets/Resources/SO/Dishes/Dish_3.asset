@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec8ba9106a942949c0d6fd7067dcab1, type: 3}
+  m_Name: Dish_3
+  m_EditorClassIdentifier: 
+  Name: Burger with lettuce
+  Type: 3
+  Prefab: {fileID: 2367970636225098083, guid: 23a707e28fb19f94b9c93bac434b6f52, type: 3}
+  Ingredients: 010000000200000005000000

@@ -1,6 +1,6 @@
 using System;
 
-namespace surf.context
+namespace cooking.context
 {
     public class ContextView : strange.extensions.context.impl.ContextView
     {

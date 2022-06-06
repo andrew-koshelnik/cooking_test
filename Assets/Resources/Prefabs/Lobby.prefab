@@ -9,7 +9,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6723543206393861766}
-  m_Layer: 10
+  - component: {fileID: 6007187748431240875}
+  m_Layer: 14
   m_Name: Lobby
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34,6 +35,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6007187748431240875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 417049561744622306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503ed45c43717234fa134af19f698c43, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1469208130038622040
 GameObject:
   m_ObjectHideFlags: 0
@@ -44,7 +57,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8607283805873938063}
   - component: {fileID: 3104172506511091183}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: disposable paper 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128,7 +141,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7155779542480225703}
   - component: {fileID: 1055848736187270117}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -212,7 +225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 63667933294930410}
   - component: {fileID: 2510555570227800484}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: disposable paper 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -295,7 +308,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3187444086678524339}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Objects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -331,7 +344,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5700474983800740739}
   - component: {fileID: 9142444053172806304}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: box 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -414,7 +427,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6083028820639573340}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -450,7 +463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8562608099548971270}
   - component: {fileID: 8205509736501832210}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: pile of boxes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -534,7 +547,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1923554967438432856}
   - component: {fileID: 1240360345702865114}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: box on old carpet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -617,7 +630,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7461355110537372411}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Boxes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -656,7 +669,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7475532121825462388}
   - component: {fileID: 4619549272798680998}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Entrance
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -740,7 +753,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2202750693512197561}
   - component: {fileID: 3160030696905487325}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: reception old
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -824,7 +837,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8690882691684995806}
   - component: {fileID: 480622657193019355}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: old sofa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -908,7 +921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2395045657896004031}
   - component: {fileID: 8213189121582875653}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Carpet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -992,7 +1005,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7416925627613472251}
   - component: {fileID: 2143492404657316718}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: disposable paper 1_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1076,7 +1089,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8296308715398553255}
   - component: {fileID: 3985123389681559618}
-  m_Layer: 10
+  m_Layer: 14
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1160,7 +1173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8622479983403055790}
   - component: {fileID: 1795909508216003728}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: old statue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1244,7 +1257,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8217790258491399133}
   - component: {fileID: 5948521271080344655}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: box on table
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1328,7 +1341,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5782000163711730502}
   - component: {fileID: 5887905804193125233}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: old sofa_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
