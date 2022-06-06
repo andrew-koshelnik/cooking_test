@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - HUD
+  - Windows
+  - Game
+  - Loading
+  - Obstacles
+  - Vortex
+  - Lobby
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HUD
+    uniqueID: 1705372235
+    locked: 0
+  - name: Windows
+    uniqueID: 229902485
+    locked: 0
+  - name: Loading
+    uniqueID: 2845726943
+    locked: 0
+  - name: Floor
+    uniqueID: 854300449
+    locked: 0
+  - name: Objects
+    uniqueID: 1240352323
+    locked: 0
+  - name: Walls
+    uniqueID: 1793396709
+    locked: 0
